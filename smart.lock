@@ -1,0 +1,39 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "node-csv-npm": {},
+      "errors": {},
+      "iron-router": {},
+      "spin": {},
+      "bootstrap-3": {}
+    },
+    "packages": {
+      "node-csv-npm": {
+        "git": "https://github.com/Dsyko/meteor-node-csv.git",
+        "tag": "v0.3.6",
+        "commit": "01be0e3e834a4f033121cb3fcc92c2697741170d"
+      },
+      "errors": {
+        "git": "https://github.com/tmeasday/meteor-errors.git",
+        "tag": "v0.2.0",
+        "commit": "b7cc525c19defe2dc744e8e34d1328b430f3e03a"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.2",
+        "commit": "ce56e58b45624dce992490f3a1c10f10d3948bae"
+      },
+      "spin": {
+        "git": "https://github.com/SachaG/meteor-spin.git",
+        "tag": "v0.2.2",
+        "commit": "3f655f0016228e4195acc784c45d3e3a247dc39f"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v0.3.7",
+        "commit": "5dd0d142c870647b910be80bc777b96f0dd45e5e"
+      }
+    }
+  }
+}
