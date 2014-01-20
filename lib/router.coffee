@@ -1,11 +1,9 @@
 Router.configure
   before: clearErrors
   loadingTemplate: 'loading'
-  layoutTemplate: 'layout'
 
 Router.map ->
-  @route 'landingPage',
-    layoutTemplate: 'layout'
+  @route 'index',
     loadingTemplate: 'loading'
     path: '/'
 
