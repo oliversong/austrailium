@@ -19,7 +19,17 @@ sortedCountries = {
   148591124: 'United States',
   1283495: 'Geneva'
 }
-sortedArray = sortedCountries.keys.sort()
+sortedArray = Object.keys(sortedCountries).sort()
 ```
 
 Need to be able to find the country that's closest to a target GDPPC. Use a binary search through sortedArray to find the closest GDPs (maybe 10 closest ones?), then index into sortedCountries to return a list of the country names.
+
+Keep these in memory, recalculate every time the server is started
+```
+countries = Countries.find({}).fetch()
+sortedCountries = {}
+for country in countries
+  sortedCountries[country.GDP.2013] = country.name
+
+sortedArray = Object.keys(sortedCountry).sort()
+```
