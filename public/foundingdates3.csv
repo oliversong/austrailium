@@ -5,7 +5,7 @@ COORS ADOLPH                   ,1901
 KEYSTONE FOODS CORP            ,1965
 C. F. BRAUN                    ,1909
 BROOKS FASHION STORES          ,1923
-CHRISTENSEN, INC.              ,1944
+CHRISTENSEN,1944
 KERR GLASS MANUFACTURI         ,1903
 LIQUID AIR                     ,1965
 OCEANEERING INTERNATL          ,1965
@@ -109,7 +109,7 @@ TOPAZ                          ,1969
 PRINTRONIX                     ,1974
 NICKLOS OIL & GAS              ,1950
 ANTENNAS FOR COMM.             ,1972
-SANDERS, RC TECH.              ,1975
+SANDERS,1975
 DEPENDABLE INSUR. GRP.         ,1972
 APPLIED SOLAR ENERGY           ,1978
 WALBAR                         ,1951
@@ -495,13 +495,13 @@ MED-CHEM PRODUCTS              ,1970
 QUALITY MICRO SYSTEMS          ,1977
 MID-STATE FEDERAL              ,1934
 POREX TECHNOLOGY               ,1961
-COOPERVISION, INC.             ,1972
-ROYALE AIRLINES, INC.          ,1965
+COOPERVISION,1972
+ROYALE AIRLINES,1965
 POLYMERIC RESOURCES            ,1982
 COOK DATA SERVICES             ,1979
 GALILEO ELECTRO-OPTIC          ,1959
 GUILFORD INDUSTRIES            ,1975
-U.S. TELEPHONE, INC.           ,1979
+U.S. TELEPHONE,1979
 U.S. HEALTH CARE               ,1976
 DIGITAL COMMUNICATIONS         ,1972
 REHAB HOSPITAL SERVICE         ,1979
@@ -511,7 +511,7 @@ SILICON VALLEY GROUP           ,1973
 TIME ENERGY SYSTEMS            ,1980
 URGENT CARE CENTERS            ,1982
 CALIBRE CORPORATION            ,1981
-DIASONICS, INC.                ,1977
+DIASONICS,1977
 AMERICAN SOFTWARE              ,1970
 DOUBLE R FAST FOOD             ,1980
 FIRST FEDERAL                  ,1983
@@ -523,14 +523,14 @@ AMERICA WEST AIR               ,1981
 AUTOMATIX INCORPORATED         ,1980
 BURNHAM SERVICE                ,1921
 XEBEC                          ,1974
-THE MPSI GROUP, INC.           ,1970
+THE MPSI GROUP,1970
 APOLLO COMPUTER                ,1980
 FORTUNE SYSTEMS                ,1980
 INFORMATION RESOURCES          ,1977
 NEW HAMPSHIRE SAVINGS          ,1982
 INT'L LEASE FINANCE            ,1973
 CONTINENTAL FEDERAL            ,1901
-FLOW SYSTEMS, INC.             ,1974
+FLOW SYSTEMS,1974
 WASHINGTON MUTUAL              ,1901
 PENTA SYSTEMS                  ,1981
 TELEVIDEO SYSTEMS              ,1976
@@ -541,12 +541,12 @@ SOVEREIGN THOROBRED.           ,1981
 COM VU CORPORATION             ,1980
 MAXWELL LABORATORIES           ,1965
 SCI. SYSTEMS SERVICE           ,1965
-SENTRY DATA, INC.              ,1980
+SENTRY DATA,1980
 TELECRAFTER CORP.              ,1977
 INTEGRATED SOFTWARE            ,1970
 VICTOR TECHNOLOGIES            ,1980
 BURR-BROWN CORPORATION         ,1956
-FARM FRESH, INC.               ,1974
+FARM FRESH,1974
 MASSTOR SYSTEMS                ,1976
 BIOTECHNICA INT'L.             ,1981
 WINCOM CORPORATION             ,1978
@@ -571,15 +571,15 @@ RAUCH INDUSTRIES               ,1956
 HYTEK MICROSYSTEMS             ,1974
 VALLEY FEDERAL S&L             ,1925
 INTERFACE FLOORING             ,1973
-IGC, INC.                      ,1981
+IGC,1981
 COMBINED NETWORK               ,1980
 INTEGRATED CIRCUITS            ,1969
 REGIS CORPORATION              ,1954
-TELECI, INC.                   ,1967
+TELECI,1967
 TRAK AUTO CORP.                ,1980
 CLINICAL DATA                  ,1974
 E&B MARINE                     ,1956
-TELERATE, INC.                 ,1969
+TELERATE,1969
 AMER. BLOODPRESSURE            ,1983
 THE DRESS BARN                 ,1966
 STERLING SOFTWARE              ,1983
@@ -591,20 +591,20 @@ UNITED BANCORP ALASKA          ,1974
 CARE ENTERPRISES               ,1978
 HOME FED./ROCKIES              ,1934
 KINNEY SYSTEMS                 ,1977
-VALUE LINE, INC.               ,1931
+VALUE LINE,1931
 CONSCO ENTERPRISES             ,1972
-SPECTRAVIDEO, INC.             ,1983
+SPECTRAVIDEO,1983
 COLONIAL X-RAY CORP.           ,1980
-COMPUSHOP, INC.                ,1977
-CONVERSE, INC.                 ,1908
-INFO DESIGNS, INC.             ,1980
-PRIMAGES, INC.                 ,1981
+COMPUSHOP,1977
+CONVERSE,1908
+INFO DESIGNS,1980
+PRIMAGES,1981
 UNIVERSAL HOLDING              ,1981
-BENAFUELS, INC.                ,1980
-COMPU-PLAN, INC.               ,1981
+BENAFUELS,1980
+COMPU-PLAN,1981
 CUSTOM CREAMERY                ,1983
 LSI LOGIC CORP.                ,1980
-LYPHOMED, INC.                 ,1980
+LYPHOMED,1980
 CLUBMART OF AMERICA            ,1982
 NU HORIZONS ELECTRONIC         ,1982
 BASIC AMERICAN MED.            ,1974
@@ -612,12 +612,12 @@ GIBSON GREETINGS               ,1900
 COSMO COMMUNICATIONS           ,1975
 SYSTEMS ASSOCIATES             ,1966
 FINANCIAL SECURITY S&L         ,1982
-ASTRO-MED, INC.                ,1971
+ASTRO-MED,1971
 ELECTRONIC FINANCIAL           ,1982
-JEFFREY MARTIN, INC.           ,1960
+JEFFREY MARTIN,1960
 FLORIDA FEDERAL S&L            ,1933
 MARITEK CORPORATION            ,1980
-ARMEL, INC.                    ,1974
+ARMEL,1974
 SIS CORPORATION                ,1981
 TELERAM COMMUNICATIONS         ,1983
 COMPUTER LANGUAGE              ,1964
@@ -627,13 +627,13 @@ UNITED FIRST FEDERAL           ,1934
 VITALITY UNLIMITED             ,1971
 ARTEL COMMUNICATIONS           ,1981
 DISTRIBUTED LOGIC              ,1977
-ENDATA, INC.                   ,1969
+ENDATA,1969
 INTERAND CORPORATION           ,1969
 MAGNETIC INFO. TECH.           ,1981
 PRIAM CORPORATION              ,1978
 SPECTRAN CORP.                 ,1981
 BGS SYSTEMS                    ,1975
-DAMON BIOTECH, INC.            ,1973
+DAMON BIOTECH,1973
 MICROPOLIS CORP.               ,1976
 VANZETTI SYSTEMS               ,1968
 WESTERN WASTE INDUS.           ,1964
@@ -642,28 +642,28 @@ INTERSTATE UNIFORM             ,1950
 AGENCY RENT-A-CAR              ,1971
 AMHERST ASSOCIATES             ,1970
 SPAN-AMERICAN MEDICAL          ,1970
-ACTIVISION, INC.               ,1971
+ACTIVISION,1971
 BURLINGTON COAT                ,1972
-POWERTEC, INC.                 ,1965
-SELECTERM, INC.                ,1969
+POWERTEC,1965
+SELECTERM,1969
 202 DATA SYSTEMS               ,1979
 EAGLE COMPUTER                 ,1980
 ENSUN CORP.                    ,1981
-MEDAR, INC.                    ,1978
-SHONEY'S SOUTH, INC.           ,1970
+MEDAR,1978
+SHONEY'S SOUTH,1970
 AMGEN                          ,1980
 TBC CORPORATION                ,1970
 GIGA-TRONICS                   ,1980
 HPSC INC.                      ,1975
 HALE SYSTEMS                   ,1979
 ERBAMONT N.V.                  ,1853
-CALMAR, INC.                   ,1983
+CALMAR,1983
 GRADCO SYSTEMS INC.            ,1978
 KEY TRONIC CORP.               ,1969
 QUICK & REILLY GROUP           ,1974
 KENTRON INT'L                  ,1950
-CLAYTON HOMES, INC.            ,1968
-UNGERMANN-BASS, INC.           ,1979
+CLAYTON HOMES,1968
+UNGERMANN-BASS,1979
 AUTOMATED PROF. SYSTEM         ,1980
 MARGAUX CONTROLS               ,1977
 GENERAL HOMES CORP.            ,1973
@@ -671,13 +671,13 @@ VEGA BIOTECHNOLOGIES           ,1979
 SMITH LABORATORIES             ,1979
 MEDICAL 21 CORP.               ,1981
 APPLIED BIOSYSTEMS             ,1980
-1 POTATO 2, INC.               ,1977
+1 POTATO 2,1977
 HALIFAX ENGINEERING            ,1967
 AVANT-GARDE                    ,1978
 BOMED MEDICAL LTD.             ,1980
 EL CHICO CORPORATION           ,1940
 TERRANO CORP.                  ,1977
-WICAT SYSTEMS, INC.            ,1980
+WICAT SYSTEMS,1980
 CIPRICO INC.                   ,1978
 IMMUNEX CORPORATION            ,1981
 MARQUEST MEDICAL               ,1979
@@ -693,21 +693,21 @@ WILLIAMS-SONOMA                ,1956
 CMC INTERNATIONAL              ,1979
 TELEPHONE SUPPORT              ,1980
 INT'L MEDICAL SYSTEMS          ,1982
-INVENTION, DESIGN              ,1979
-MICRO D., INC.                 ,1979
+INVENTION,1979
+MICRO D.,1979
 NAT'L HEALTH CORP              ,1971
 PERFECT DATA CORP.             ,1976
 PETRIE CORPORATION             ,1974
 FOXMEYER CORPORATION           ,1977
-SATELCO, INC.                  ,1980
+SATELCO,1980
 BARON DATA SYSTEMS             ,1976
 DIAGNON CORP                   ,1981
-ILC TECHNOLOGY, INC.           ,1967
+ILC TECHNOLOGY,1967
 COMPTEK RESEARCH               ,1968
-ISOMEDIX, INC.                 ,1972
+ISOMEDIX,1972
 RAX RESTAURANTS                ,1977
 FAIRMONT FINANCIAL             ,1970
-KOLFF MEDICAL, INC.            ,1976
+KOLFF MEDICAL,1976
 HOWARD SAVINGS BANK            ,1901
 INTEGRATED GENETICS            ,1981
 LINEAR CORPORATION             ,1961
@@ -719,15 +719,15 @@ GTECH CORPORATION              ,1980
 MCDONALD & CO.                 ,1929
 AIA INDUSTRIES                 ,1981
 AN-CON GENETICS                ,1982
-ENDOTRONICS, INC.              ,1968
+ENDOTRONICS,1968
 KINCAID FURNITURE              ,1980
 TELXON CORPORATION             ,1969
 WRIGHT LABORATORIES            ,1978
 ZY MOS CORPORATION             ,1978
 DAIRY MART STORES              ,1972
 SAN FRANCISCO BANCORP          ,1980
-CME-SAT, INC.                  ,1982
-DRUG SYSTEMS, INC.             ,1981
+CME-SAT,1982
+DRUG SYSTEMS,1981
 FIRST FED. ARIZONA             ,1934
 FREY ASSOCIATES                ,1974
 HORIZON INDUSTRIES             ,1968
@@ -744,7 +744,7 @@ FIRST FEDERAL AUSTIN           ,1955
 FIRST INDIANA FED.             ,1904
 HEI CORPORATION                ,1978
 KEY IMAGE SYSTEMS              ,1977
-MACK TRUCKS, INC.              ,1900
+MACK TRUCKS,1900
 ZIYAD INC.                     ,1979
 CARDIOSEARCH INC.              ,1979
 FIN'L. INST. SERVICE           ,1971
@@ -754,24 +754,24 @@ APPLIED CIRCUIT                ,1977
 BIG BEAR INC.                  ,1976
 CARDINAL DISTRIB.              ,1971
 COOPER BIOMEDICAL              ,1980
-LADD FURNITURE, INC.           ,1927
+LADD FURNITURE,1927
 SATELLITE SYNDICATED           ,1978
 CROWN BOOKS CORP.              ,1977
 MANUFACTURED HOMES             ,1975
 KNOLL INTERNATIONAL            ,1938
-AVACARE, INC.                  ,1980
-GUEST SUPPLY, INC.             ,1980
+AVACARE,1980
+GUEST SUPPLY,1980
 THERMEDICS INC.                ,1966
 TOTAL SYSTEMS SVCS.            ,1982
 EQUITEC FINANCIAL              ,1972
 FDP CORPORATION                ,1968
 FINALCO GROUP                  ,1968
 OLD FASHION FOODS              ,1968
-GULL, INC.                     ,1966
+GULL,1966
 VITA PLUS INDUSTRIES           ,1975
 DIAMOND-BATHURST               ,1975
 BANKVERMONT CORP.              ,1983
-CABLEGUARD, INC.               ,1980
+CABLEGUARD,1980
 CINTAS CORPORATION             ,1968
 MAXICARE HEALTH                ,1973
 AMC ENTERTAINMENT              ,1968
@@ -779,11 +779,11 @@ GREAT AMERICAN FEDERAL         ,1901
 TELEVISION TECHNOL.            ,1967
 MCLEAN INDUSTRIES              ,1976
 BALLARD MEDICAL                ,1978
-GAMES NETWORK, INC.            ,1983
+GAMES NETWORK,1983
 TRI-COUNTY S & L               ,1975
 BINDLEY WESTERN IND.           ,1970
 ABM COMPUTER SYSTEMS           ,1982
-AULT, INC.                     ,1961
+AULT,1961
 COMMONWEALTH S&L               ,1980
 DATASOUTH COMPUTER             ,1977
 HAMMOND CO.                    ,1982
@@ -791,15 +791,15 @@ KAYPRO CORPORATION             ,1953
 WEDTECH CORPORATION            ,1965
 AIRCAL INC.                    ,1971
 SYNBIOTICS CORP.               ,1982
-ATCOR, INC.                    ,1959
-PAYCHEX, INC.                  ,1979
+ATCOR,1959
+PAYCHEX,1979
 STRATUS COMPUTER               ,1980
 FAMILY HEALTH SYSTEMS          ,1983
 CARTERET SAVINGS               ,1939
 CULP INC.                      ,1972
 AMBULATORY MEDICAL             ,1983
 NORTHERN AIR FREIGHT           ,1970
-SHOE-TOWN, INC.                ,1932
+SHOE-TOWN,1932
 AMERICAN PHYSICIANS            ,1974
 CELL PRODUCTS                  ,1982
 JUNO LIGHTING INC.             ,1976
@@ -807,8 +807,8 @@ WILLIAM BYRD PRESS             ,1913
 HOVNANIAN ENTERPRISES          ,1967
 BLOOMFIELD S&L ASSN.           ,1982
 HEALTHGROUP INT'L              ,1979
-BKW, INC.                      ,1981
-WINTERHALTER, INC.             ,1978
+BKW,1981
+WINTERHALTER,1978
 AMPAD CORP.                    ,1900
 EQUATORIAL COMMUNIC.           ,1979
 FIRST DATA RESOURCES           ,1971
@@ -822,7 +822,7 @@ SECOND NAT'L S & L             ,1924
 EATON FINANCIAL                ,1974
 INNOVATIVE SOFTWARE            ,1980
 PROVINCETOWN-BOSTON            ,1949
-S-P DRUG CO., INC.             ,1976
+S-P DRUG CO.,1976
 TENDER LOVING CARE             ,1978
 Z-AXIS CORPORATION             ,1983
 PEARLE HEALTH SERVICES         ,1965
@@ -842,12 +842,12 @@ ATLANTIC FINANCIAL FED         ,1982
 NORTH ATLANTIC TECH            ,1980
 MEDICAL STERILIZATION          ,1982
 CONT'L HEALTHCARE              ,1981
-ENERGY FACTORS, INC.           ,1982
+ENERGY FACTORS,1982
 FIRST DATA MANAGEMENT          ,1969
 PROTOCOL COMPUTERS             ,1976
 BIO-TECHNOLOGY GEN.            ,1980
 CERPROBE CORPORATION           ,1976
-EXOVIR, INC.                   ,1981
+EXOVIR,1981
 PARAGON COMMUNICATION          ,1983
 RESTAURANT SYSTEMS             ,1974
 VIEW-MASTER INT'L              ,1938
@@ -865,7 +865,7 @@ SYNERGEX CORPORATION           ,1948
 UNIVERSAL FURNITURE            ,1973
 AMERICAN EDUCATIONAL COMP      ,1981
 CHANCELLOR CORP.               ,1977
-COPYTELE, INC.                 ,1982
+COPYTELE,1982
 DATACOPY CORP.                 ,1973
 DESIGNHOUSE INT'L              ,1973
 LOTUS DEVELOPMENT              ,1982
@@ -888,9 +888,9 @@ ROONEY PACE GROUP              ,1983
 VLI CORPORATION                ,1981
 PENINSULA S&L ASSN.            ,1954
 RUSTY PELICAN RESTAU.          ,1972
-ENDEVCO, INC.                  ,1977
+ENDEVCO,1977
 UTD. OKLAHOMA BANK.            ,1974
-ATV SYSTEMS, INC.              ,1981
+ATV SYSTEMS,1981
 ELECTRO SCIENTIFIC             ,1953
 MERCHANTS COOPERATIVE          ,1901
 BUILDER'S TRANSPORT            ,1962
@@ -908,7 +908,7 @@ INDEPENDENCE HEALTH            ,1978
 MEDIPLEX GROUP                 ,1959
 NI INDUSTRIES                  ,1930
 RICHARDSON ELEC.               ,1981
-DATAKEY, INC.                  ,1976
+DATAKEY,1976
 MR. GASKET CO.                 ,1964
 LANE TELECOMM.                 ,1976
 FIRST FED. CHARLSTN.           ,1934
@@ -923,7 +923,7 @@ UNITED FED. SAVING             ,1902
 PELE MEDI-CORP.                ,1983
 LEVITT CORP.                   ,1947
 TRILOGY LTD.                   ,1980
-AIR ONE, INC.                  ,1981
+AIR ONE,1981
 MEDSTAT SYSTEMS                ,1981
 PERSONAL COMPUTER              ,1982
 SOUTH BOSTON SAVINGS           ,1901
@@ -933,7 +933,7 @@ COMPUCARE INC.                 ,1975
 IMEX MEDICAL SYSTEMS           ,1976
 J.P. INDUSTRIES                ,1977
 JEFFERSON SMURFIT              ,1976
-PARISIAN, INC.                 ,1920
+PARISIAN,1920
 PHYSIO TECHNOLOGY              ,1981
 SAFEGUARD HEALTH               ,1974
 RID-A-BUG COMPANY              ,1980
@@ -944,7 +944,7 @@ CHANCELLOR COMPUTER            ,1982
 ANDOVER CONTROLS               ,1976
 THE FEDERATED GROUP            ,1976
 HCW OIL & GAS INC.             ,1981
-MELRIDGE, INC.                 ,1929
+MELRIDGE,1929
 PEAK HEALTH CARE               ,1979
 MAGNET BANK                    ,1934
 PANCRETEC INC.                 ,1983
@@ -954,9 +954,9 @@ FARM & HOME SAVING             ,1901
 RENT-A-CENTER                  ,1983
 WESTERN MICRO TECH.            ,1975
 FORSCHNER GROUP                ,1974
-ACTMEDIA, INC.                 ,1971
+ACTMEDIA,1971
 BOSTON 5-CENT SAV.             ,1901
-CML GROUP, INC.                ,1969
+CML GROUP,1969
 FOLKS RESTAURANT               ,1983
 HEALTHCARE SERVICES            ,1976
 J.B. HUNT                      ,1961
@@ -984,13 +984,13 @@ UNIV. TRADING EXCHANGE         ,1983
 ENTERTAINMENT PUBLCT.          ,1962
 PAR PHARMACEUTICALS            ,1978
 TEMCO HOME HEALTH              ,1966
-VMX, INC.                      ,1980
+VMX,1980
 BEL FUSE                       ,1949
 ENTRE COMPUTER                 ,1981
 HOSPITAL STAFFING              ,1981
 LIBERTY FEDERAL S&L            ,1926
 MISSISSIPPI VALLEY             ,1971
-SUPERTEX, INC.                 ,1975
+SUPERTEX,1975
 UTD. FIN'L BANKING             ,1983
 A.A. IMPORTING                 ,1980
 CERMETEK MICROELEC.            ,1981
@@ -1001,7 +1001,7 @@ DOCTORS OFFICE                 ,1981
 T.G.I.F. TEXAS                 ,1979
 CERTIFIED COLLAT.              ,1980
 CHEROKEE GROUP                 ,1973
-CLOTHESTIME, INC.              ,1974
+CLOTHESTIME,1974
 FIRST FED. CAROLINA            ,1933
 TGI FRIDAY'S                   ,1969
 TOFU TIME INC.                 ,1981
@@ -1013,15 +1013,15 @@ COMPAQ COMPUTER                ,1982
 SPIRE CORPORATION              ,1969
 CALIF. AMPLIFIER               ,1981
 CINCINNATI MICRO.              ,1976
-COAST R.V., INC.               ,1977
-FINAL TEST, INC.               ,1981
+COAST R.V.,1977
+FINAL TEST,1981
 GRAPHIC INDUSTRIES             ,1970
 GRAPHIC TECHNOLOGY             ,1975
 US VACATION RESORTS            ,1980
 ZYGO CORPORATION               ,1970
 BAKER COMMUNICATION            ,1983
 BENCH CRAFT INC.               ,1976
-BUSINESSLAND, INC.             ,1982
+BUSINESSLAND,1982
 CCX NETWORK                    ,1969
 COMPUTER IDENTICS              ,1968
 CONCEPT DEVELOPMENT            ,1981
@@ -1041,15 +1041,15 @@ ARCHIVE CORP.                  ,1980
 CAMBRIAN SYSTEMS               ,1977
 MEDICINE SHOPPE                ,1977
 SOONER DEFENSE                 ,1982
-L.J.N. TOYS, LTD.              ,1967
+L.J.N. TOYS,1967
 MORRIS COUNTY S&L              ,1901
-REID-ASHMAN, INC.              ,1980
+REID-ASHMAN,1980
 ADVANCED TELECOMM.             ,1983
 FIRST NORTHERN S&L             ,1927
 FLEXIBLE COMPUTER              ,1983
 GREAT LAKES FEDERAL            ,1901
 ROYAL INT'L OPTIC.             ,1971
-NESTOR, INC.                   ,1975
+NESTOR,1975
 PLM FINANCIAL SERV.            ,1972
 ZITEL CORPORATION              ,1979
 ELDORADO MOTOR CORP.           ,1978
@@ -1058,18 +1058,18 @@ FLIGHT INT'L. GROUP            ,1976
 THOR INDUSTRIES                ,1980
 SPORTO CORP                    ,1983
 AMERICAN INTEGRITY             ,1947
-ARRAYS, INC.                   ,1981
+ARRAYS,1981
 ATHENS FED. S&L                ,1929
 S.A.Y. INDUSTRIES              ,1976
 DEVELCON ELECTRONICS           ,1974
 HADCO CORP.                    ,1966
-IMREG, INC.                    ,1981
+IMREG,1981
 INTERPHASE CORP.               ,1977
 LANGER BIOMECHANICS            ,1971
 SURGICAL CARE AFFIL.           ,1982
 COLUMBIA DATA PROD.            ,1975
 EPSILON DATA MGMT.             ,1970
-MATHBOX, INC.                  ,1974
+MATHBOX,1974
 MENTOR GRAPHICS                ,1981
 DUQUESNE SYSTEMS               ,1970
 INACOMP COMPUTER               ,1976
@@ -1085,13 +1085,13 @@ DIGIGRAPHIC SYSTEMS            ,1981
 GEORGIA FEDERAL                ,1928
 HOMECRAFTERS WHRSE.            ,1980
 HORIZON AIR IND.               ,1981
-V BAND SYSTEMS, INC.           ,1981
+V BAND SYSTEMS,1981
 DAY TELECOMMUNIC.              ,1977
 WILTON ENTERPRISES             ,1980
 LIBERTY FEDERAL PA             ,1901
 SOCIETY FOR SAVINGS            ,1901
 HOME FEDERAL S&L MD            ,1901
-NICO, INC.                     ,1953
+NICO,1953
 COLUMBIA FEDERAL               ,1921
 SEACOAST BANKING               ,1981
 STOCKHOLDER SYSTEMS            ,1971
@@ -1124,7 +1124,7 @@ GREAT SOUTHERN FED.            ,1935
 II MORROW INC.                 ,1982
 WESTCHESTER FIN'L              ,1983
 ALL SEASONS RESORTS            ,1982
-CARDIO PET, INC.               ,1979
+CARDIO PET,1979
 FANON/COURIER U.S.A.           ,1981
 LILY-TULIP INC.                ,1981
 BRANIFF INC.                   ,1983
@@ -1139,7 +1139,7 @@ MICROPRO INT'L                 ,1978
 FIRST FEDERAL (MT)             ,1955
 CENTRAL PA SAVINGS             ,1901
 UNIFORCE TEMPORARY             ,1961
-FCS INDUSTRIES, INC.           ,1969
+FCS INDUSTRIES,1969
 THIS CAN'T BE YOGURT           ,1981
 XIDEX MAGNETICS                ,1981
 BROKERS MORTGAGE               ,1949
@@ -1155,7 +1155,7 @@ DOW B. HICKAM                  ,1961
 MEDCO CONTAINMENT              ,1983
 CLEAR CHANNEL COMM.            ,1974
 EXCEL INDUSTRIES               ,1935
-TOYS PLUS, INC.                ,1982
+TOYS PLUS,1982
 BANKERS FIRST CORP.            ,1983
 WESTWOOD ONE INC.              ,1974
 TOTAL ASSETS                   ,1980
@@ -1184,7 +1184,7 @@ ONE BANCORP                    ,1901
 ZYCAD CORP.                    ,1981
 STUARTS DEPT. STORES           ,1980
 WESTWORLD COMMUNITY            ,1982
-MICROSIZE, INC.                ,1981
+MICROSIZE,1981
 ALASKA NAT'L BANK              ,1940
 U.S. MEDICAL ENTER.            ,1984
 ADVANCED LOGIC SYS.            ,1980
@@ -1196,7 +1196,7 @@ FIRST AMER. FEDERAL            ,1955
 FLAGLER  BANK CORP.            ,1974
 W.H. BRADY CO.                 ,1914
 PHOENIX MEDICAL                ,1978
-VICOM, INC.                    ,1975
+VICOM,1975
 DISPLAY COMPONENTS             ,1971
 ALTERNACARE CORP.              ,1970
 AMER. SHARED HOSPITAL          ,1980
@@ -1206,9 +1206,9 @@ KAPPA NETWORK                  ,1963
 TRANSTECTOR SYSTEMS            ,1967
 SHOPPERS WORLD                 ,1975
 AUDIO/VIDEO AFFIL.             ,1980
-CERADYNE, INC.                 ,1967
+CERADYNE,1967
 PIONEER FEDERAL S&L            ,1933
-WAGS STORES, INC.              ,1982
+WAGS STORES,1982
 MMI MEDICAL INC.               ,1981
 HOOPER HOLMES INC.             ,1900
 EDUDATA CORP.                  ,1981
@@ -1233,7 +1233,7 @@ ENTEX ENERGY DEVELOP LTD       ,1984
 PERPETUAL AMER. BANK           ,1901
 AMERICAN HEALTHCARE            ,1978
 DURAKON INDUSTRIES             ,1979
-UNITED TOTE, INC.              ,1980
+UNITED TOTE,1980
 JOHN O. BUTLER CO.             ,1949
 NERCO INC.                     ,1977
 LESCO INC.                     ,1962
@@ -1247,7 +1247,7 @@ CENTRAL JERSEY SAV.            ,1901
 CRAZY EDDIE INC.               ,1975
 P. LEINER NURITION             ,1979
 D'LITES OF AMERICA             ,1978
-CLUB MED, INC.                 ,1950
+CLUB MED,1950
 LEWIS GALOOB TOYS              ,1957
 ADIA SERVICES                  ,1972
 INMED CORP.                    ,1973
@@ -1268,7 +1268,7 @@ RESTAURANT MGT.SVC             ,1966
 PREFERRED S & L                ,1979
 BAY PACIFIC HEALTH             ,1979
 QMAX TECHNOLOGY                ,1975
-GV MEDICAL, INC.               ,1983
+GV MEDICAL,1983
 MCGRATH RENTCORP               ,1979
 GENERAL AERO PDTS.             ,1964
 LIEBERMAN ENTRPRSE.            ,1937
@@ -1288,8 +1288,8 @@ TRIO-TECH INT'L                ,1958
 EARTHWORM TRACTOR              ,1965
 FREEDOM FEDERAL S&L            ,1927
 ROSS INDUSTRIES                ,1968
-ACTION PACKETS, INC.           ,1981
-HOWTEK, INC.                   ,1984
+ACTION PACKETS,1981
+HOWTEK,1984
 CATALYST ENERGY                ,1982
 OPTICAL SPECIALITIES           ,1978
 AST RESEARCH                   ,1980
@@ -1378,7 +1378,7 @@ Circadian                      ,1979
 Amer Video Teleconferencing    ,1981
 Bank of Darien                 ,1985
 Lancer                         ,1969
-Citizens Financial Group,RI    ,1984
+Citizens Financial Group,1984
 Braintree Savings              ,1900
 Guaranty Bancshares            ,1984
 International Container Sys    ,1980
@@ -1416,7 +1416,7 @@ Union Exploration Partners LP  ,1985
 Reebok International           ,1979
 Sylvan Learning                ,1981
 Health Images                  ,1982
-Suncoast S&L,Hollywood,FL      ,1985
+Suncoast S&L,1985
 Interstate Securities          ,1932
 Bercor                         ,1979
 Control Resource Industries    ,1984
@@ -1486,7 +1486,7 @@ BRIntec                        ,1920
 TSO Financial                  ,1951
 Fireman's Fund                 ,1968
 Crossland Federal Savings Bank ,1900
-Fairfield First Bk & Tr,CT     ,1980
+Fairfield First Bk & Tr,1980
 Sweet Victory                  ,1984
 Healthcare International       ,1979
 New World Pictures             ,1982
@@ -1508,7 +1508,7 @@ Direct Pharmaceutical          ,1983
 GoodMark Foods                 ,1982
 International Biotechnologies  ,1980
 Linear Films                   ,1961
-National Svgs Bank, Albany     ,1900
+National Svgs Bank,1900
 Stater Brothers                ,1936
 Rayonier Timberlands LP        ,1937
 Autodie                        ,1963
@@ -1524,7 +1524,7 @@ Thermo Analytical              ,1946
 Rogers Cablesystems of America ,1983
 Rowley-Scher Reprographics     ,1922
 Sandy                          ,1971
-First Oak Brook Bancshares,IL  ,1983
+First Oak Brook Bancshares,1983
 Poughkeepsie Savings Bank      ,1900
 Mercury General                ,1960
 American Savings Bank NY       ,1900
@@ -1653,7 +1653,7 @@ Oncogene Science               ,1983
 EMC                            ,1979
 Trans Leasing International    ,1972
 John Hanson Savings and Loan   ,1960
-North Side Savings Bank,NY     ,1905
+North Side Savings Bank,1905
 Cavalier Homes                 ,1984
 Colorocs                       ,1982
 X-Rite                         ,1958
@@ -1754,7 +1754,7 @@ Sybra                          ,1967
 Cliff Engle                    ,1983
 Calton                         ,1981
 Candela Laser                  ,1970
-TCF Banking and Savings FA,MN  ,1923
+TCF Banking and Savings FA,1923
 National Sanitary Supply       ,1929
 Ovabloc                        ,1977
 Intl Genetic Engineering       ,1980
@@ -1921,8 +1921,8 @@ Lakeland Industries            ,1982
 PAM Transportation             ,1986
 Boulevard Bancorp              ,1981
 Victoria Creations             ,1978
-University Bk NA,Newton,MA     ,1927
-MidConn Bank,Kensington,CT     ,1900
+University Bk NA,1927
+MidConn Bank,1900
 Med-Mobile                     ,1981
 CMS Advertising                ,1984
 Roadway Motor Plazas           ,1978
@@ -1936,7 +1936,7 @@ Insituform Southeast           ,1985
 Mr Rooter                      ,1968
 Enviropact                     ,1976
 J Bildner & Sons               ,1983
-United Svgs Bk,Great Falls,MT  ,1923
+United Svgs Bk,1923
 Stanley Interiors              ,1984
 San Francisco Federal S&L      ,1935
 Duramed Pharmaceuticals        ,1982
@@ -1975,7 +1975,7 @@ Starpointe Savings Bank        ,1984
 Commonwealth Mortgage of Amer  ,1961
 Baldwin Piano & Organ          ,1900
 Joule                          ,1965
-Framingham Savings Bank,MA     ,1900
+Framingham Savings Bank,1900
 Perkins Family Resturant       ,1958
 Scientific Systems             ,1945
 Carmike Cinemas                ,1900
@@ -2002,7 +2002,7 @@ Angell Care Master LP          ,1986
 Johnstown Savings              ,1900
 HemaCare                       ,1979
 Vacations To Go                ,1983
-People's Savings Bank,Brockton ,1900
+People's Savings Bank,1900
 Fairhaven Savings Bank         ,1931
 InFerGene                      ,1983
 Fred Meyer                     ,1922
@@ -2010,7 +2010,7 @@ California Micro Devices       ,1976
 UniCare Financial              ,1978
 Shorewood Packaging            ,1966
 WTD Industries                 ,1983
-Carolina First,Greenville,SC   ,1937
+Carolina First,1937
 Shaw's Supermarkets            ,1900
 Silicon Graphics               ,1981
 Donegal Group                  ,1986
@@ -2018,7 +2018,7 @@ Commercial Credit              ,1912
 POP Radio                      ,1983
 AmeriFirst Federal S&L         ,1933
 Home Unity S&L                 ,1900
-EA Engineering, Science        ,1973
+EA Engineering,1973
 Metro Mobile CTS               ,1983
 US Facilities                  ,1980
 Olympic Broadcasting           ,1984
@@ -2081,7 +2081,7 @@ Senior Service                 ,1985
 Anchor Financial               ,1984
 Skyline Chili                  ,1949
 Essex Communications           ,1953
-Peoples Heritage Finl Group,ME ,1900
+Peoples Heritage Finl Group,1900
 Boston Celtics LP              ,1946
 Uni-Marts                      ,1977
 Cerner                         ,1980
@@ -2102,7 +2102,7 @@ Micro Imaging Systems          ,1986
 Petroleum Heat and Power       ,1903
 Vista Chemical                 ,1984
 Lexington Savings Bank         ,1900
-Webster Financial,Waterbury,CT ,1986
+Webster Financial,1986
 Markel                         ,1930
 Brown Transport                ,1946
 Boston Acoustics               ,1979
@@ -2126,7 +2126,7 @@ Landmark Technology            ,1978
 Forum Retirement Partners LP   ,1986
 Reeds Jewelers                 ,1984
 MTech                          ,1968
-Tolland Bank, Tolland, CT      ,1900
+Tolland Bank,1900
 Consumer Plastics              ,1983
 Airgas                         ,1982
 Honeybee                       ,1978
@@ -2148,7 +2148,7 @@ Baldwin Technology             ,1918
 ISI Systems                    ,1969
 Western Auto Supply            ,1909
 Outlet Communications          ,1925
-Standard Federal Bank,Troy,MI  ,1900
+Standard Federal Bank,1900
 Insituform Mid-America         ,1983
 Group 1 Software               ,1986
 MDT                            ,1971
@@ -2161,10 +2161,10 @@ Presto-Tek                     ,1980
 Belvedere                      ,1986
 Cash America Investments       ,1984
 Delta Woodside Industries      ,1983
-Eagle Financial,Torrington,CT  ,1986
+Eagle Financial,1986
 Brandon Systems                ,1968
 Bermuda Star Line              ,1980
-Indiana Fed S&L,Valparaiso,IN  ,1900
+Indiana Fed S&L,1900
 MBS Textbook Exchange          ,1986
 Bamberger Polymers             ,1967
 Catch A Rising Star            ,1986
@@ -2223,7 +2223,7 @@ California Energy              ,1971
 Orbis                          ,1979
 Galaxy Cablevision LP          ,1984
 Corken International           ,1945
-Allied Bankshares,Thompson,GA  ,1984
+Allied Bankshares,1984
 Advanced Marketing Technology  ,1984
 Brinkmann Instruments          ,1941
 Meridian Insurance Group       ,1953
@@ -2354,7 +2354,7 @@ Mid-America Racing Stables     ,1987
 Xeta                           ,1981
 Samna                          ,1982
 Brandywine Savings Bank        ,1900
-Greater NY Svgs Bk,New York,NY ,1900
+Greater NY Svgs Bk,1900
 Downey Designs International   ,1972
 Multi-Local Media              ,1931
 Ecogen                         ,1983
@@ -2425,7 +2425,7 @@ Celgene                        ,1986
 ProNet                         ,1982
 Price Pfister                  ,1910
 ABIOMED                        ,1981
-Amax Gold, Inc.                ,1987
+Amax Gold,1987
 Onondaga Savings Bank          ,1901
 Monitek Technologies           ,1968
 NDL Products                   ,1974
@@ -2433,7 +2433,7 @@ Continental Graphics           ,1931
 Indepth Data                   ,1984
 United Building Services       ,1987
 Polar Molecular                ,1984
-First Essex Bancorp,Andover,MA ,1987
+First Essex Bancorp,1987
 Larizza Industries             ,1982
 Applied Power                  ,1910
 Original Italian Pasta         ,1985
@@ -2452,7 +2452,7 @@ SNL Financial                  ,1979
 Eastex Energy                  ,1980
 Entronics                      ,1984
 IndTech                        ,1986
-Premier Bankshs,Bluefield,VA   ,1986
+Premier Bankshs,1986
 GENDEX                         ,1983
 Unigene Laboratories           ,1980
 Morsemere Financial Group      ,1926
@@ -2552,7 +2552,7 @@ Thomson McKinnon Asset Mgmt LP ,1987
 Properties of America          ,1974
 Borden Chemicals & Plastics LP ,1951
 Clean Harbors                  ,1980
-Provident Bankshares,Maryland  ,1900
+Provident Bankshares,1900
 CyberOptics                    ,1984
 Orthomet                       ,1974
 First State Financial Services ,1900
@@ -2610,7 +2610,7 @@ Community Bancshares           ,1975
 United States Cellular         ,1983
 Freeport-McMoRan Copper Co Inc ,1987
 Silk Greenhouse                ,1982
-BFS Bankorp, Inc.              ,1900
+BFS Bankorp,1900
 T2 Medical                     ,1984
 Teleconnect                    ,1979
 Homestyle Buffet               ,1986
@@ -2634,7 +2634,7 @@ Egghead                        ,1984
 Kinetic Concepts               ,1976
 DataVend                       ,1985
 Phoenix Technologies           ,1979
-First Federal S & L, Lenawee   ,1900
+First Federal S & L,1900
 Harvard Knitwear               ,1968
 Penn Traffic                   ,1971
 Dell Computer                  ,1984
@@ -2751,7 +2751,7 @@ BTU International              ,1950
 Himedics                       ,1982
 United Federal Bancorp         ,1949
 Clinical Technologies Assoc    ,1985
-Greenstone, Rabasca, Roberts   ,1972
+Greenstone,1972
 Cattleguard                    ,1980
 BT Telecom                     ,1980
 Environmental Mntrg & Testing  ,1988
@@ -2829,7 +2829,7 @@ Ogden Projects                 ,1984
 Serv-Tech                      ,1978
 Allstate Financial             ,1982
 Air & Water Technologies       ,1987
-Image Bank, Inc.               ,1974
+Image Bank,1974
 Phoenix Laser Systems          ,1987
 Grace Energy                   ,1979
 BizMart                        ,1987
@@ -2853,7 +2853,7 @@ Robec                          ,1977
 Neurogen                       ,1987
 Enron Oil & Gas                ,1970
 Digi International             ,1985
-AG Automotive Warehouses,      ,1989
+AG Automotive Warehouses,1989
 Employee Benefits Plans        ,1974
 Rally's                        ,1984
 NDE Environmental              ,1988
@@ -2935,7 +2935,7 @@ Integrated Systems             ,1980
 Sequoia Systems                ,1981
 CII Financial                  ,1988
 Santa Fe Energy Resources      ,1971
-Interneuron Pharmaceuticals,   ,1988
+Interneuron Pharmaceuticals,1988
 Delphi Financial Group         ,1987
 Tuboscope                      ,1937
 Verifone                       ,1981
@@ -2996,7 +2996,7 @@ Xilinx                         ,1984
 Helix BioCore                  ,1987
 Transatlantic Holdings         ,1953
 Gamma International            ,1988
-CFSB Bancorp, Inc.             ,1900
+CFSB Bancorp,1900
 AICorp                         ,1975
 Arctco                         ,1982
 Benchmark Electronics          ,1979
@@ -3340,9 +3340,9 @@ Pacific Physician Services     ,1983
 Bradley Pharmaceuticals        ,1985
 ENVIRx                         ,1988
 Harmony Holdings               ,1982
-Healthcare Imaging Services,   ,1991
+Healthcare Imaging Services,1991
 Guaranty National              ,1983
-LaserSight, Inc.               ,1988
+LaserSight,1988
 Atlantic Tel-Network           ,1989
 Horace Mann Educators          ,1945
 Biospecifics Technologies      ,1957
@@ -3784,7 +3784,7 @@ Kemet                          ,1926
 ImageAmerica                   ,1982
 Physicians Clinical Laboratory ,1986
 Platinum Software              ,1984
-Sterling Bancshares, Inc       ,1980
+Sterling Bancshares,1980
 Consumer Portfolio Services    ,1991
 ECO2                           ,1991
 Central Mortgage Bancshares    ,1960
@@ -3815,14 +3815,14 @@ Clucker's Wood Roasted Chicken ,1990
 Media Vision Technology        ,1990
 SatCon Technology              ,1985
 Breed Technologies             ,1986
-NPM Healthcare Products, Inc.  ,1925
+NPM Healthcare Products,1925
 Ligand Pharmaceutical          ,1987
 PeopleSoft                     ,1987
 DiversiFax                     ,1989
 LanOptics                      ,1990
 Sport Chalet                   ,1959
 Monk-Austin                    ,1907
-USA Classic, Inc.              ,1976
+USA Classic,1976
 HS Resources                   ,1982
 Golden Eagle Group             ,1951
 Wilshire Technologies          ,1982
@@ -3874,7 +3874,7 @@ Palomar Medical Technologies   ,1987
 Capitol American Financial     ,1970
 Infu-Tech                      ,1988
 TRO Learning                   ,1989
-Ultralife Batteries, Inc.      ,1991
+Ultralife Batteries,1991
 Hungarian Telephone & Cable    ,1992
 Xerographic Laser Images       ,1974
 Octus                          ,1983
@@ -3969,7 +3969,7 @@ Title Wave Stores              ,1986
 Pillowtex                      ,1954
 Alamo Group                    ,1941
 Amtrol                         ,1946
-Savoy Pictures Entertainment,  ,1992
+Savoy Pictures Entertainment,1992
 Microchip Technology           ,1989
 McGaw                          ,1920
 Tricord Systems                ,1987
@@ -4014,10 +4014,10 @@ Wind River Systems             ,1981
 Commander Aircraft             ,1991
 JetForm                        ,1982
 Integrated Security Systems    ,1993
-TIG Holdings, Inc.             ,1980
+TIG Holdings,1980
 Martin Color-Fi                ,1978
 O'Reilly Automotive            ,1957
-West Coast Bancorp Inc,FLA     ,1981
+West Coast Bancorp Inc,1981
 Developed Technology Resource  ,1991
 Harmony Brook                  ,1989
 Action Performance Companies   ,1992
@@ -4387,7 +4387,7 @@ Welbilt                        ,1907
 Leggoons                       ,1981
 RailTex Inc.                   ,1977
 United Video Satellite Group   ,1965
-The Talbots, Inc.              ,1947
+The Talbots,1947
 Elsag Bailey                   ,1916
 Atlantic Beverage              ,1993
 Arris Pharmaceuticals          ,1989
@@ -4585,7 +4585,7 @@ Flextronics International      ,1982
 Minnesota Educational          ,1973
 Northwest Airlines             ,1926
 ScanSource                     ,1992
-EOTT Energy Partners, LP       ,1984
+EOTT Energy Partners,1984
 Dakotah                        ,1971
 GaSonics International         ,1968
 Super Vision International     ,1991
@@ -4684,7 +4684,7 @@ Atria Software                 ,1990
 Creative Medical Development   ,1992
 Derma Sciences                 ,1984
 MovieFone                      ,1994
-Optex Biomedical, Inc.         ,1984
+Optex Biomedical,1984
 Radica Games                   ,1993
 North American Advanced        ,1987
 US Delivery Systems            ,1993
@@ -4911,7 +4911,7 @@ Health Fitness Physical        ,1981
 Capitol One Financial          ,1953
 Enron Global Power             ,1994
 Cannondale                     ,1971
-JP Foodservice, Inc.           ,1989
+JP Foodservice,1989
 Orbit Semiconductor            ,1982
 John Q Hammons Hotels          ,1959
 Senior Tour Players            ,1994
@@ -5159,12 +5159,12 @@ MIDCOM Communications          ,1993
 OnTrak Systems                 ,1985
 Tele-Communications Intl       ,1985
 MEMC Electronic Materials Inc  ,1984
-BNCcorp, Bismarck, ND          ,1987
+BNCcorp,1987
 Martin Industries              ,1905
 Sel-Leb Marketing              ,1985
 Novadigm                       ,1992
 BT Office Products             ,1984
-CET Environmental Services,    ,1988
+CET Environmental Services,1988
 PixTech                        ,1993
 Programmer's Paradise          ,1982
 Teekay Shipping                ,1979
@@ -5721,7 +5721,7 @@ Forasol-Foramer                ,1953
 General Surgical Innovations   ,1992
 Touch Tone America             ,1989
 Vincam Group                   ,1986
-First Fin Corp,Providence,RI   ,1982
+First Fin Corp,1982
 Legacy Software                ,1986
 Microcide Pharmaceuticals      ,1992
 Mechanical Dynamics            ,1977
@@ -5828,7 +5828,7 @@ Kideo Productions              ,1994
 Multicom Publishing            ,1992
 PacificAmerica Money Center    ,1981
 Electroscope                   ,1991
-IMC Mortgage, Tampa,Florida    ,1993
+IMC Mortgage,1993
 Aviation Sales                 ,1996
 Central Financial Acceptance   ,1996
 ICTS Holland Production        ,1992
@@ -6156,7 +6156,7 @@ UOL Publishing                 ,1984
 West Teleservices              ,1994
 Freshstart Venture Capital     ,1982
 Translation Group              ,1995
-Leading Edge Packaging, Inc.   ,1995
+Leading Edge Packaging,1995
 ViaSat                         ,1986
 Puma Technology                ,1993
 TTI Team Telecom Internatnl    ,1987
@@ -6245,7 +6245,7 @@ Puro Water Group Inc           ,1994
 Coast Dental Services Inc      ,1992
 NAVIDEC Inc                    ,1993
 Independence Brewing Co        ,1994
-Community Capital, Greenwood   ,1989
+Community Capital,1989
 Birman Managed Care Inc        ,1994
 Biosite Diagnostics            ,1988
 DAOU Systems Inc               ,1986
@@ -6337,7 +6337,7 @@ HomeCom Communications Inc     ,1994
 Kaynar Technologies Inc        ,1943
 Journal Register Co            ,1901
 Brigham Exploration Co         ,1990
-Knoll Inc (Warburg, Pincus)    ,1938
+Knoll Inc (Warburg,1938
 Augment Systems Inc            ,1990
 ASD Group Inc                  ,1965
 Rambus Inc                     ,1990
@@ -6397,7 +6397,7 @@ Metrika Systems Corp           ,1980
 Qwest Communications Corp      ,1988
 Domain Energy Corporation      ,1992
 Acorn Products Inc             ,1890
-Life Financial Corp, CA        ,1996
+Life Financial Corp,1996
 Saxton Inc                     ,1986
 Waterlink Inc                  ,1994
 New Century Financial Corp     ,1995
@@ -6526,7 +6526,7 @@ Star Buffet Inc                ,1997
 ACS Electronics Ltd            ,1985
 Advantage Learning System Inc  ,1986
 Big Dog Holdings Inc           ,1993
-Prime Bancshares Inc, Texas    ,1958
+Prime Bancshares Inc,1958
 Pervasive Software Inc         ,1993
 Network Solutions Inc(SAIC)    ,1979
 NextLink Communications Inc    ,1994
@@ -6600,7 +6600,7 @@ T&W Financial Corp             ,1976
 Excel Switching Corp           ,1988
 Young Innovations Inc          ,1995
 Bayard Drilling Technologies   ,1982
-Bay Bancshares, Laporte, TX    ,1965
+Bay Bancshares,1965
 CTI Industries Corp            ,1975
 International Aircraft         ,1988
 LINC Group Inc                 ,1975
@@ -6613,7 +6613,7 @@ Bright Horizons Holdings Inc   ,1986
 Sonic Automotive Inc           ,1966
 Novacare Employee Services Inc ,1992
 Hybrid Networks Inc            ,1990
-CIT Group, Inc.                ,1924
+CIT Group,1924
 Metro-Goldwyn-Mayer Inc        ,1930
 SportsLine USA Inc             ,1994
 US Timberlands Company LP      ,1920
@@ -6709,7 +6709,7 @@ Artisan Components Inc         ,1991
 USN Communications             ,1993
 BMJ Medical Management Inc     ,1996
 Global TeleSystems Group Inc   ,1983
-Headlands Mortgage Corp, CA    ,1981
+Headlands Mortgage Corp,1981
 Miller Exploration Co          ,1925
 Royal Olympic Cruises Inc      ,1997
 Vysis Inc                      ,1991
@@ -6721,7 +6721,7 @@ Dispatch Management Services   ,1996
 CDnow Inc                      ,1994
 1-800 CONTACTS INC             ,1995
 Duane Reade Inc                ,1960
-Crusader Holding Corp,  PA     ,1943
+Crusader Holding Corp,1943
 Tam Restaurants Inc            ,1996
 Province Healthcare Co         ,1975
 Birner Dental Mngmt Svcs Inc   ,1995
@@ -6732,8 +6732,8 @@ Quanta Services Inc            ,1997
 Astropower Inc                 ,1983
 CulturalAccessWorldwide Inc    ,1983
 Icon CMT Corp                  ,1991
-Micromuse, Inc                 ,1989
-Republic Banking Corp, Miami   ,1965
+Micromuse,1989
+Republic Banking Corp,1965
 American Safety Insurance Hld  ,1986
 First Consulting Group Inc     ,1980
 Symphonix Devices Inc          ,1994
@@ -6760,7 +6760,7 @@ Pentacon Inc                   ,1997
 Ritchie Bros Auctioneers Inc   ,1963
 Championship Auto Racing Teams ,1978
 BNC Mortgage Inc               ,1995
-Cowlitz Bancorp, Longview, WA  ,1978
+Cowlitz Bancorp,1978
 Newmark Homes Corp             ,1983
 CSK Auto Corp                  ,1917
 Reltec Corp                    ,1995
@@ -6833,13 +6833,13 @@ MGC Communications Inc         ,1996
 Verio Inc                      ,1996
 Hawk Corp                      ,1989
 Young & Rubicam Inc            ,1923
-PBOC Holdings Inc, CA          ,1987
+PBOC Holdings Inc,1987
 Frontline Communications Corp  ,1997
 Ursus Telecom Corporation      ,1993
 Federated Investors            ,1957
 Havana Group Inc               ,1957
 UniCapital Corporation         ,1972
-GLB Bancorp Inc, Mentor, Ohio  ,1994
+GLB Bancorp Inc,1994
 IBS Interactive Inc            ,1995
 L-3 Communications Holdings    ,1997
 Guaranty Bancshares Inc        ,1969
@@ -6877,7 +6877,7 @@ VI Technologies Inc            ,1992
 MicroStrategy Inc              ,1989
 Hastings Entertainment Inc     ,1968
 NetGravity Inc                 ,1995
-Pointe Financial Corp, FL      ,1993
+Pointe Financial Corp,1993
 HLM Design Inc                 ,1997
 Asymetrix Learning Systems Inc ,1984
 Showpower Inc                  ,1991
@@ -6974,7 +6974,7 @@ Clark/Bardes Holdings Inc      ,1967
 New American Healthcare Corp   ,1995
 BankFirst Corp                 ,1988
 eBay Inc                       ,1995
-Admiralty Bancorp Inc, FL      ,1987
+Admiralty Bancorp Inc,1987
 Dectron Internationale Inc     ,1977
 Conoco(EI du Pont de Nemours)  ,1875
 Lincoln Heritage Corporation   ,1980
@@ -6982,7 +6982,7 @@ Lincoln Heritage Corporation   ,1980
 Fox Entertainment Group Inc    ,1985
 MONY Group Inc                 ,1901
 EarthWeb Inc                   ,1996
-Prosperity Bancshares Inc, TX  ,1983
+Prosperity Bancshares Inc,1983
 Network-1 Security Solutions   ,1990
 Curtis International           ,1990
 Delicious Brands Inc           ,1988
@@ -7003,7 +7003,7 @@ Exchange Applications Inc      ,1994
 Xoom.com Inc                   ,1996
 AboveNet Communications Inc    ,1996
 Internet America Inc           ,1995
-Banc Corp,Birmingham,Alabama   ,1957
+Banc Corp,1957
 Vail Banks Inc                 ,1977
 United Financial Holdings Inc  ,1982
 Merkert American Corporation   ,1934
@@ -7022,7 +7022,7 @@ Tower Financial Corporation    ,1998
 American Axle and Mnfrg        ,1924
 Entercom Communications Corp   ,1968
 Tut Systems Inc                ,1991
-CNB Inc, Lake City, Florida    ,1985
+CNB Inc,1985
 Packaged Ice Inc               ,1990
 Smith-Gardner & Associates Inc ,1988
 Perot Systems Corp             ,1988
@@ -7076,7 +7076,7 @@ Valley Media Inc               ,1979
 Critical Path Inc              ,1997
 MKS Instruments                ,1961
 Priceline.com Inc              ,1997
-Pepsi Bottling Group, Inc.     ,1901
+Pepsi Bottling Group,1901
 ZDNet                          ,1996
 PLX Technology Inc             ,1984
 Claimsnet.com Inc              ,1997
@@ -7222,7 +7222,7 @@ ShowCase Corp                  ,1989
 VaxGen Inc                     ,1996
 Suncoast Bancorp Inc           ,1998
 I D Systems Inc                ,1993
-Privatebancorp Inc, Chicago,IL ,1989
+Privatebancorp Inc,1989
 Yankee Candle Co Inc           ,1976
 Ask Jeeves Inc                 ,1996
 Clarent Corp                   ,1996
@@ -7380,7 +7380,7 @@ Neuberger Berman Inc           ,1939
 Calico Commerce Inc            ,1991
 DSL.net Inc                    ,1998
 PlanetRx.com Inc               ,1997
-SmartDisk(Toshiba,Fischer)     ,1998
+SmartDisk(Toshiba,1998
 Homeservices Com Inc           ,1985
 Illuminet Holdings Inc         ,1995
 Interwoven Inc                 ,1995
@@ -8145,11 +8145,11 @@ Marshall Edwards Inc.          ,2000
 Tempur-Pedic International Inc ,1989
 Kintera Inc.                   ,2000
 Luminent Mortgage Capital      ,2003
-CrossTex Energy, Inc.          ,1992
+CrossTex Energy,1992
 Portec Rail Products Inc       ,1906
 Eyetech Pharmaceuticals Inc    ,2000
 GTx Inc                        ,1997
-Bancorp Bank,Wilmington,DE     ,2000
+Bancorp Bank,2000
 TRW Automotive Holdings Corp   ,1904
 Asset Acceptance Corp          ,1962
 Bakers Footwear Group Inc      ,1926
@@ -8158,10 +8158,10 @@ Assurant Inc                   ,1978
 Todco                          ,1997
 Symbion Inc                    ,1996
 Staktek Holdings Inc           ,1990
-Daystar Technologies, Inc.     ,1997
+Daystar Technologies,1997
 AlphaSmart Inc                 ,1992
 Atheros Communications Inc     ,1998
-Bristol West Holdings, Inc.    ,1973
+Bristol West Holdings,1973
 Corgentech Inc                 ,1999
 Cherokee International Inc     ,1978
 Dynavax Technologies           ,1996
@@ -8254,12 +8254,12 @@ RightNow Technologies Inc      ,1995
 Navteq Corp                    ,1985
 WPT Enterprises Inc            ,2002
 Westlake Chemical Corp         ,1986
-Placer Sierra Bancshares,CA    ,2001
+Placer Sierra Bancshares,2001
 Eurobancshares Inc             ,1979
 Stereotaxis Inc                ,1990
 Cohen & Steers Inc             ,1986
 Archipelago Holdings Inc       ,1996
-SNB Bancshares Inc,Texas       ,1985
+SNB Bancshares Inc,1985
 Google Inc                     ,1998
 Ecost Com Inc                  ,1999
 Nephros Inc                    ,1997
@@ -8495,7 +8495,7 @@ Genomic Health Inc             ,2000
 Taleo Corp                     ,1996
 WebMD Health Corp              ,1999
 Avalon Pharmaceuticals Inc     ,1999
-State Natl Bancshares Inc,TX   ,1993
+State Natl Bancshares Inc,1993
 VistaPrint Limited             ,1995
 American Commercial Lines LLC  ,1915
 StealthGas Inc                 ,2004
@@ -8637,7 +8637,7 @@ Houston Wire & Cable Co        ,1975
 Volcano Corp                   ,2000
 Synchronoss Technologies Inc   ,2000
 Techwell Inc                   ,1997
-Home Bancshares Inc,Conway,AR  ,1998
+Home Bancshares Inc,1998
 J Crew Group Inc               ,1983
 Omniture Inc                   ,1996
 PGT Inc                        ,1980
@@ -8712,7 +8712,7 @@ Thermage Inc                   ,1996
 Metabolix Inc                  ,1992
 Emergent BioSolutions Inc      ,1998
 Hertz Global Holdings Inc      ,1918
-KBR, Inc.                      ,1901
+KBR,1901
 Allot Communications Inc       ,1996
 Hansen Medical Inc             ,2002
 Constellation Energy Partners  ,2005
@@ -8879,9 +8879,9 @@ Vaughan Foods Inc              ,1961
 Bridgeline Software Inc        ,2000
 ShoreTel Inc                   ,1996
 Dice Holdings Inc              ,1991
-Encore Bancshares,Houston,TX   ,2000
+Encore Bancshares,2000
 SemGroup Energy Partners LP    ,2007
-Silver State Bancorp,NV        ,1996
+Silver State Bancorp,1996
 Netezza Corp                   ,2000
 Limco-Piedmont Inc             ,1995
 China Fortune Acquisition      ,2006
@@ -8929,7 +8929,7 @@ China Dig TV Hldg Co Ltd       ,1998
 Targanta Therapeutics Corp     ,1997
 Compellent Technologies Inc    ,2002
 Textainer Grp Hldg Ltd         ,1979
-Virgin Mobile USA, Inc         ,2002
+Virgin Mobile USA,2002
 SP Acquisition Holdings Inc    ,2007
 Stone Tan China Acq Corp       ,2007
 Trans1 Inc                     ,2000

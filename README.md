@@ -33,3 +33,21 @@ for country in countries
 
 sortedArray = Object.keys(sortedCountry).sort()
 ```
+
+### Mongo imports
+
+For GDP information
+```
+mongoimport -h localhost:3002 --db meteor --collection countries --type csv --file ./public/gdppc2.csv --headerline --ignoreBlanks
+```
+
+For founding date information (public companies only)
+```
+mongoimport -h localhost:3002 --db meteor --collection businesses --type csv --file ./public/foundingdates3.csv --headerline
+```
+
+## Todo
+
+* Autocomplete
+* Give a range of the best matches
+* Which companies do each of the countries need?
