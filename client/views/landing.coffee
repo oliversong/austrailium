@@ -3,11 +3,16 @@ Template.index.events(
     e.preventDefault()
     company = $('input[name="company"]').val()
     country = holydooley(company)
-    $('.result')[0].innerHTML = "Go to <span class='country'>"+country+"</span> to make another <span class='company'>"+company+"</span>"
+    if country is "nope"
+      $('.result')[0].innerHTML = "Sorry, I don't know what that company is."
+    else
+      $('.result')[0].innerHTML = "Go to <span class='country'>"+country+"</span> to make another <span class='company'>"+company+"</span>"
 )
 
 holydooley = (company)->
   b = Businesses.findOne({name: company})
+  unless b
+    return "nope"
   usa = Countries.findOne({"Country Name":"United States"})
   if usa[b.foundingDate]
     target = usa[b.foundingDate]

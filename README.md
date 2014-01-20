@@ -51,3 +51,4 @@ mongoimport -h localhost:3002 --db meteor --collection businesses --type csv --f
 * Autocomplete
 * Give a range of the best matches
 * Which companies do each of the countries need?
+* Large published set (founding dates) is slowing down client. Don't publish?
