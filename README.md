@@ -46,6 +46,16 @@ For founding date information (public companies only)
 mongoimport -h localhost:3002 --db meteor --collection businesses --type csv --file ./public/foundingdates3.csv --headerline
 ```
 
+### Mongo remote imports
+
+This changes frequently so you have to look up the new username and pass every time using `meteor mongo --url`
+
+```
+mongoimport --host production-db-c3.meteor.io --port 27017 --username client-e72e8a7f --password 0d33a3d2-fe1e-7a49-3074-e5c4065586d4 --db austrailium_meteor_com --collection businesses --type json --file ./public/db-businesses.json
+
+mongoimport --host production-db-c3.meteor.io --port 27017 --username client-e72e8a7f --password 0d33a3d2-fe1e-7a49-3074-e5c4065586d4 --db austrailium_meteor_com --collection countries --type json --file ./public/db-countries.json
+```
+
 ## Todo
 
 * Autocomplete
