@@ -33,3 +33,13 @@ findClosest = (target)->
       best[0] = gdp
 
   best[0]
+
+Template.index.boop = ()->
+  position: 'bottom'
+  limit: 5
+  rules: [
+    token: '.'
+    collection: Businesses
+    field: "name"
+    template: Template.business
+  ]

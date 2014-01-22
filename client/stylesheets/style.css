@@ -5,3 +5,7 @@
 .country{
   color: red;
 }
+
+.-autocomplete-item .label {
+  color: black !important;
+}
