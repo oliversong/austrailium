@@ -2,14 +2,26 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h1>Austrailium</h1>
+      <h1>Project Austrailium</h1>
+      <p>Okay, here's a theory. At certain points in a country's development, its economy is ripe for certain kinds of businesses. For example, a certain GDP per capita may correspond to your average Joe having enough money to buy ice cream, so an ice cream business might flourish.</p>
+      <p>I've put together two datasets- one of the GDP per capita of many of the countries in the world, and one of the founding dates of many public businesses in the US. What this lets us do is choose an existing company and find a country that has the same current GDP per capita as the US did when that company was founded. Also, you can look up a country and find out the top five companies that it might benefit from, based on GDP per capita.</p>
+      <h2>Look up a company</h2>
       <form>
         <div class="form-group">
           <input id="dat" name="company" type="text" class="form-control" value='' placeholder="Google Inc" />
         </div>
-        <button type="submit" class="submit btn btn-default" style="width:100%;">Submit</button>
+        <button id="datsub" type="submit" class="submit btn btn-primary" style="width:100%;">Submit</button>
       </form>
-      <h2 class="result"></h2>
+      <h3 class="company-result"></h3>
+
+      <h2>Look up a country</h2>
+      <form>
+        <div class="form-group">
+          <input id="dot" name="country" type="text" class="form-control" value='' placeholder="Belgium" />
+        </div>
+        <button id="dotsub" type="submit" class="submit btn btn-primary" style="width:100%;">Submit</button>
+      </form>
+      <h3 class="country-result"></h3>
     </div>
   </div>
 </div>
