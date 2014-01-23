@@ -10,7 +10,8 @@ Template.index.events(
 )
 
 holydooley = (company)->
-  b = Businesses.findOne({name: company})
+  debugger
+  b = @businesses
   unless b
     return "nope"
   usa = Countries.findOne({"Country Name":"United States"})
@@ -34,12 +35,12 @@ findClosest = (target)->
 
   best[0]
 
-Template.index.boop = ()->
-  position: 'bottom'
-  limit: 5
-  rules: [
-    token: '.'
-    collection: Businesses
-    field: "name"
-    template: Template.business
-  ]
+# Template.index.boop = ()->
+#   position: 'bottom'
+#   limit: 5
+#   rules: [
+#     token: '.'
+#     collection: Businesses
+#     field: "name"
+#     template: Template.business
+#   ]
