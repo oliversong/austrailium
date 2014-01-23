@@ -15,9 +15,12 @@ Template.index.events(
     country = $('input[name="country"]').val()
     companies = findCompanies(country)
     if companies is "nope"
-      $('.country-result')[0].innerHTML = "Sorry, I don't know what that country is."
+      $('.country-result h3')[0].innerHTML = "Sorry, I don't know what that country is."
     else
-      $('.country-result')[0].innerHTML = "Based on current GDP per capita, " + country + " needs these companies: " + companies.join('; ') + '.'
+      $('.country-result h3')[0].innerHTML = "Based on current GDP per capita, " + country + " needs these companies:"
+      $('.country-result ul').contents().remove()
+      for c in companies
+        $('.country-result ul').append("<li style='text-transform: capitalize;'>"+c+"</li>")
 )
 
 findCompanies = (country)->
@@ -49,7 +52,7 @@ findCompanies = (country)->
     comps = []
     for t in targets
       comps.push(t.name)
-    return comps 
+    return comps
   else
     return "nope"
 
@@ -85,5 +88,12 @@ Template.index.rendered = ()->
     for b in bus
       names.push(b.name)
 
+    debugger
     $("#dat").autocomplete({ source: names, minLength: 3 })
+
+    cnames = []
+    counts = Buckets.findOne({which:"countries"}).bucket
+    for c, v of counts
+      cnames.push(v)
+    $("#dot").autocomplete({ source: cnames, minLength: 2 })
   , 2000)
