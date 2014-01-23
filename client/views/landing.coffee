@@ -92,8 +92,8 @@ Template.index.rendered = ()->
     $("#dat").autocomplete({ source: names, minLength: 3 })
 
     cnames = []
-    counts = Buckets.findOne({which:"countries"}).bucket
-    for c, v of counts
-      cnames.push(v)
+    counts = Countries.find({}).fetch()
+    for c in counts
+      cnames.push(c["Country Name"])
     $("#dot").autocomplete({ source: cnames, minLength: 2 })
   , 2000)
