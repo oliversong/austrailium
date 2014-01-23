@@ -5,6 +5,8 @@ Template.index.events(
     country = holydooley(company)
     if country is "nope"
       $('.result')[0].innerHTML = "Sorry, I don't know what that company is."
+    else if country is "sorry"
+      $('.result')[0].innerHTML = "Sorry, that company was founded earlier than our US GDP per capita dataset contains."
     else
       $('.result')[0].innerHTML = "Go to <span class='country'>"+country+"</span> to make another <span class='company'>"+company+"</span>"
 )
@@ -17,7 +19,7 @@ holydooley = (company)->
   if usa[b.foundingDate]
     target = usa[b.foundingDate]
   else
-    target = usa["1961"]
+    return "sorry"
 
   closest = findClosest(target)
   sortedCountries = Buckets.findOne({which:"countries"})
@@ -34,12 +36,12 @@ findClosest = (target)->
 
   best[0]
 
-Template.index.boop = ()->
-  position: 'bottom'
-  limit: 5
-  rules: [
-    token: '.'
-    collection: Businesses
-    field: "name"
-    template: Template.business
-  ]
+Template.index.rendered = ()->
+  setTimeout(()->
+    bus = Businesses.find({}).fetch()
+    names = []
+    for b in bus
+      names.push(b.name)
+
+    $("#dat").autocomplete({ source: names, minLength: 3 })
+  , 2000)
