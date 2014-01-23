@@ -96,4 +96,4 @@ Template.index.rendered = ()->
     for c in counts
       cnames.push(c["Country Name"])
     $("#dot").autocomplete({ source: cnames, minLength: 2 })
-  , 2000)
+  , 6000)
